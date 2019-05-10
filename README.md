@@ -6,7 +6,7 @@ A camera node scans the raw camera stream for a white ball. If a ball is detecte
 https://youtu.be/J_XRxS8SP0E
 
 #### Robot Chasing Ball:
-![Overview](Results/Images/Overview.png "ALT")
+![Overview](Results/Overview.png "ALT")
 
 #### Instructions to launch
 - Requires ROS installation
@@ -17,4 +17,4 @@ https://youtu.be/J_XRxS8SP0E
 - Move ball in front of robot
 
 #### Camera Image:
-![Overview](Results/Images/Ball.png "ALT")
+![Overview](Results/Ball.png "ALT")
