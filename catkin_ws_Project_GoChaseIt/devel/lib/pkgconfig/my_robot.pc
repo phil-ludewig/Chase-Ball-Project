@@ -1,0 +1,8 @@
+prefix=/home/phil/catkin_ws_Project_GoChaseIt/devel
+
+Name: my_robot
+Description: Description of my_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/phil/catkin_ws_Project_GoChaseIt/devel/lib 
+Requires: 

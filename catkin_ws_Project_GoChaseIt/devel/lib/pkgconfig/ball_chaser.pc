@@ -1,0 +1,8 @@
+prefix=/home/phil/catkin_ws_Project_GoChaseIt/devel
+
+Name: ball_chaser
+Description: Description of ball_chaser
+Version: 0.0.0
+Cflags: -I/home/phil/catkin_ws_Project_GoChaseIt/devel/include
+Libs: -L/home/phil/catkin_ws_Project_GoChaseIt/devel/lib 
+Requires: 
